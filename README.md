@@ -1,4 +1,5 @@
 # jwt-prec
+## [Cookie/Session과 JWT 관련 블로깅 참고](https://velog.io/@sksgur3217/CookieSession%EA%B3%BC-JWT)
 - jwt의 사용법을 다루고 jwt가 무엇인지 이해합니다.
 
 ---
